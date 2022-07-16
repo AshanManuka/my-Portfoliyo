@@ -18,7 +18,29 @@
 }
 .t1{
     color: aliceblue;
+    text-decoration: none;
     position: absolute;
     top: 22px;
-    right: 572px;
+    right: 380px;
+}
+.t2{
+    color: aliceblue;
+    text-decoration: none;
+    position: absolute;
+    top: 22px;
+    right: 250px;
+}
+.t3{
+    color: aliceblue;
+    text-decoration: none;
+    position: absolute;
+    top: 22px;
+    right: 150px;
+}
+.t4{
+    color: aliceblue;
+    text-decoration: none;
+    position: absolute;
+    top: 22px;
+    right: 30px;
 }
