@@ -1,7 +1,15 @@
 
+
+/* Begin HEADER */
+
 #head{
     background-color: #000000;
-    height: 500px;
+    height: 700px;
+}
+#side-two{
+    position: absolute;
+    left: 60px;
+    top: 50%;
 }
 
 
@@ -41,12 +49,38 @@
     font-size: x-large;
     position: absolute;
     padding-left: 60px;
-    top: 18%;
+    top: 22%;
 }
 .title-pTwo{
     color: #ce1c31;
     font-size: x-large;
     position: absolute;
     padding-left: 70px;
-    top: 23%;
+    top: 27%;
 }
+.about-me{
+    color: #eeeeee;
+}
+.about-list{
+    font-size: large;
+    font-family: Arial;
+}
+.cv{
+    color: #eeeeee;
+    font-family: Arial;
+    position: absolute;
+    top: 80%;
+}
+.download-btn{
+    background-color: DodgerBlue;
+    border-radius: 20px;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+
+
+/* End Header*/
