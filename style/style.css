@@ -11,6 +11,11 @@
     left: 60px;
     top: 50%;
 }
+#start-aside{
+    position: absolute;
+    left: 600px;
+    top: 600px;
+}
 
 
 .head-bg-video{
@@ -76,12 +81,21 @@
     top: 80%;
 }
 .download-btn{
-    background-color: DodgerBlue;
+    background-color: #932d37;
     border-radius: 20px;
     color: white;
     padding: 12px 30px;
     cursor: pointer;
     font-size: 20px;
+}
+.start-btn{
+    background-color: #932d37;
+    border-radius: 20px;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+
 }
 
 
