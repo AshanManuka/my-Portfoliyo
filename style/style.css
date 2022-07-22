@@ -37,13 +37,13 @@
     left: 62%;
 }
 .nav-hOne{
-    color: #eeeeee;
+    color: gold;
     position: absolute;
     top: -3px;
     padding-left: 10px;
 }
 .nav-hTwo{
-    color: gold;
+    color: #eeeeee;
     position: absolute;
     top: -3px;
     padding-left: 66px;
