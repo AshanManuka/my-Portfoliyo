@@ -18,6 +18,13 @@
     top: 600px;
 }
 
+.pro-pic{
+    position: absolute;
+    top: 125px;
+    padding-left: 650px;
+    width: 680px;
+    height: 580px;
+}
 
 .head-bg-video{
     width: 100%;
