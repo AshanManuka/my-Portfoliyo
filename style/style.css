@@ -15,7 +15,7 @@
 #start-aside{
     position: absolute;
     left: 600px;
-    top: 600px;
+    top: 550px;
 }
 
 .pro-pic{
@@ -130,7 +130,7 @@
     width: 100%;
     height: 350px;
     position: relative;
-    padding-left: 10px;
+    align-content: center;
     padding-top: 50px;
     color: #ffffff;
 }
@@ -146,4 +146,12 @@
 }
 .content{
     align-items: center;
+}
+.content-list{
+    list-style-type: none;
+    overflow: hidden;
+}
+.image-li {
+    float: left;
+    color: #eeeeee;
 }
