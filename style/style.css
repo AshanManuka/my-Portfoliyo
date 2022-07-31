@@ -141,17 +141,30 @@
 }
 .skill-pic{
     position: relative;
-    width: 300px;
+    border-radius: 50%;
+    width: 200px;
     height: 180px;
+    border-color: #f8f6f6;
+    border-style: solid;
 }
+
 .content{
     align-items: center;
 }
 .content-list{
+    position: relative;
+    left: 15%;
     list-style-type: none;
     overflow: hidden;
 }
 .image-li {
     float: left;
     color: #eeeeee;
+}
+.round{
+    width: 200px;
+    height: 150px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: gold;
 }
