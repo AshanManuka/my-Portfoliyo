@@ -1,0 +1,22 @@
+        /*Begin Header*/
+
+#project-one{
+    padding-left: 20px;
+    width: 350px;
+    height: 300px;
+}
+.content-one{
+    position: relative;
+    width: 350px;
+    height: 250px;
+}
+.content-text{
+    color: #f8f6f6;
+    background-color: #232121;
+    position: relative;
+    top: -20%;
+    text-align: center;
+}
+
+
+        /*End Header*/
